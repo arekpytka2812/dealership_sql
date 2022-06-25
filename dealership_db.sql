@@ -1,5 +1,3 @@
--- Dealer samochodowy gr.17 Pytka 262753; Gnap 258953; Malewicz 259509 
-
 ----------------------------------------
 -- Droping sequences, tables, views and triggers --
 ----------------------------------------
@@ -518,17 +516,17 @@ INSERT INTO Employees VALUES(employees_id_seq.NEXTVAL, 35070935853, 12000, 'ADMI
 INSERT INTO Address VALUES(address_id_seq.NEXTVAL, 'Bytom', 'Grunwaldzka', '11-874', 50, 25);
 INSERT INTO Address VALUES(address_id_seq.NEXTVAL, 'Sopot', 'Ogrodowa', '44-676', 36, 2);
 INSERT INTO Address VALUES(address_id_seq.NEXTVAL, 'Nowy Sacz', 'Cwiklinskiej', '44-354', 23, 2);
-INSERT INTO Address VALUES(address_id_seq.NEXTVAL, 'Zielona Góra', 'Skromna', '49-004', 70, NULL);
+INSERT INTO Address VALUES(address_id_seq.NEXTVAL, 'Zielona GÃ³ra', 'Skromna', '49-004', 70, NULL);
 INSERT INTO Address VALUES(address_id_seq.NEXTVAL, 'Tarnobrzeg', 'Stachury', '76-081', 69, 2);
-INSERT INTO Address VALUES(address_id_seq.NEXTVAL, 'Plock', 'S³owackiego', '24-601', 1, 1);
+INSERT INTO Address VALUES(address_id_seq.NEXTVAL, 'Plock', 'SÂ³owackiego', '24-601', 1, 1);
 INSERT INTO Address VALUES(address_id_seq.NEXTVAL, 'Jelenia Gora', 'Klasztorna', '35-522', 6, 4);
-INSERT INTO Address VALUES(address_id_seq.NEXTVAL, 'Jastrzêbie-Zdroj', 'Obwodowa', '63-667', 25, 7);
+INSERT INTO Address VALUES(address_id_seq.NEXTVAL, 'JastrzÃªbie-Zdroj', 'Obwodowa', '63-667', 25, 7);
 INSERT INTO Address VALUES(address_id_seq.NEXTVAL, 'Lublin', 'Szkolna', '11-266', 15, NULL);
 INSERT INTO Address VALUES(address_id_seq.NEXTVAL, 'Kielce', 'Piesza', '14-198', 1, NULL);
 INSERT INTO Address VALUES(address_id_seq.NEXTVAL, 'Tarnobrzeg', 'Lakowa', '78-658', 22, NULL);
-INSERT INTO Address VALUES(address_id_seq.NEXTVAL, 'Gorzow Wielkopolski', '£¹kowa', '38-974', 85, 1);
+INSERT INTO Address VALUES(address_id_seq.NEXTVAL, 'Gorzow Wielkopolski', 'Â£Â¹kowa', '38-974', 85, 1);
 INSERT INTO Address VALUES(address_id_seq.NEXTVAL, 'Grudziadz', 'Sandaczowa', '53-194', 6, 9);
-INSERT INTO Address VALUES(address_id_seq.NEXTVAL, 'Piekary Sl¹skie', 'Sosnowa', '86-794', 1, 12);
+INSERT INTO Address VALUES(address_id_seq.NEXTVAL, 'Piekary SlÂ¹skie', 'Sosnowa', '86-794', 1, 12);
 INSERT INTO Address VALUES(address_id_seq.NEXTVAL, 'Bydgoszcz', 'Bydgoszcz', '30-300', 55, 1);
 INSERT INTO Address VALUES(address_id_seq.NEXTVAL, 'Suwalki', 'Ogrodowa', '30-973', 2, 4);
 INSERT INTO Address VALUES(address_id_seq.NEXTVAL, 'Bytom', 'Kujawska', '61-437', 1, 5);
